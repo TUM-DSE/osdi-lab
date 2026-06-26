@@ -26,14 +26,17 @@ Milestones build upon each other. To help with prioritization of the milestone t
  - Target tasks: target functionality for a more complete implementation.
  - Extra Challenges: Optional. Not required for full marks.
 
-To pass the course, participants and teams must successfully complete each milestone's base tasks.
+
+> [!IMPORTANT]
+> To pass the course, participants and teams must successfully complete each milestone's base tasks.
 
 Extra challenges only earn bonus points iff and only iff the base and target tasks are completed successfully.
 
 
 ## Deadlines and Late Submissions
 
-The deadlines for the course milestones are **hard deadlines**. Missing a deadline counts as late submission.
+> [!IMPORTANT]
+> The deadlines for the course milestones are **hard deadlines**. Missing a deadline counts as late submission.
 
 Late submissions will be graded at 75% (one week delay) and 50% (two weeks delay).
 
@@ -43,8 +46,10 @@ A late submission cannot earn points for extra challenges.
 ## Milestone Presentations
 
 Participents present each milestone to a member of the course staff.
-We expect that each participant is able to demonstrate that they have implemented the required functionality and be able to answer questions about their solution.
-Failure to answer questions or demonstrate the required functionality will result in a lower milestone grade.
+
+> [!IMPORTANT]
+> We expect that each participant is able to demonstrate that they have implemented the required functionality and be able to answer questions about their solution.
+> Failure to answer questions or demonstrate the required functionality will result in a lower milestone grade.
 
 For group milestones, each member must be able to explain the implementation and design decisions made by the group.
 

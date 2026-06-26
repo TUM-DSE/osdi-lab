@@ -4,8 +4,9 @@
 
 **Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
 
-[**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSEMNT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCS**](RESOURCES.md)
-
+---
+> [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSEMNT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCS**](RESOURCES.md)
+---
 
 > [!IMPORTANT]
 > **Prerequisites:**:
@@ -50,5 +51,5 @@ Moreover, the course pays particular attention to designing system software arch
 > [!NOTE]
 > **Capacity**: We plan to have around 24 places (6 teams) in the lab per instructor.
 
-> [!IMPORTANT]
+> [!WARNING]
 > **Deadline**: Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you must inform us before the registration deadline.
