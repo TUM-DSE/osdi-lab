@@ -1,17 +1,21 @@
 # Operating Systems Design and Implementation Lab (osdi-lab) -- Winter 2026
 
-
 [**🗓️ Schedule**](SCHEDULE.md) | [**💎 Assessment**](ASSESSEMNT.md) | [**📜 Rules of Engagement** ](ROE.md) | [**🌐 Resources**](RESOURCES.md)
 
 * **Organizer:** [Prof. Reto Achermann](https://dse.in.tum.de/achermann/) and the [Systems Research Group](https://dse.in.tum.de/team/) at [TU Munich](https://www.cit.tum.de/cit/startseite/).
 * **Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
-* **Prerequisites:**:
-  - Introduction to Computer Architecture (IN0004)
-  - Basic Principles: Operating Systems and System Software (IN0009)
-  - Practical Lab: Systems Programming.
-* **Additional Requirements:**
-  - Proficiency in C programming
-  - Linux development tools and environment
+
+> [!IMPORTANT]
+> **Prerequisites:**:
+>  * Introduction to Computer Architecture (IN0004)
+>  * Basic Principles: Operating Systems and System Software (IN0009)
+>  * Practical Lab: Systems Programming.
+
+> [!TIP]
+> **Additional Requirements:**
+>  * Proficiency in C programming
+>  * Linux development tools and environment
+
 * **Registration:** Be a student in TUMOnline. *Compulsory enrollment after the first weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam.*
 
 ## Credits
@@ -40,5 +44,8 @@ Moreover, the course pays particular attention to designing system software arch
 
 ## Registration
 
- * **Capacity**: We plan to have around 24 places (6 teams) in the lab.
- * **Deadline**: Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you must inform us before the registration deadline.
+> [!NOTE]
+> **Capacity**: We plan to have around 24 places (6 teams) in the lab per instructor.
+
+> [!IMPORTANT]
+> **Deadline**: Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you must inform us before the registration deadline.
