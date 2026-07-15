@@ -56,3 +56,8 @@ Moreover, the course pays particular attention to designing system software arch
 
 > [!WARNING]
 > **Deadline**: Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you must inform us before the registration deadline.
+
+> [!NOTE]
+> **Missed Registration** If for some reason you missed the matching period, you can send us an e-mail and we 
+> might be able to register you if there is space. 
+> 📧 Please include your full name and student number. Use your official TUM e-mail.
