@@ -1,12 +1,12 @@
 # Operating Systems Design and Implementation Lab (osdi-lab) -- Winter 2026
 
-**Organizer:** [Prof. Reto Achermann](https://dse.in.tum.de/achermann/) and the [Systems Research Group](https://dse.in.tum.de/team/) at [TU Munich](https://www.cit.tum.de/cit/startseite/).
-
-**Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
-
 ---
 >  [**🏠 HOME**](README.md) | [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCES**](RESOURCES.md)
 ---
+
+**Organizer:** [Prof. Reto Achermann](https://dse.in.tum.de/achermann/) and the [Systems Research Group](https://dse.in.tum.de/team/) at [TU Munich](https://www.cit.tum.de/cit/startseite/).
+
+**Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
 
 > [!IMPORTANT]
 > **Prerequisites:**:
