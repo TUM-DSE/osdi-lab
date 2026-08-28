@@ -8,7 +8,7 @@
 **Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
 
 ---
-> [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSEMNT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCS**](RESOURCES.md)
+> [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCS**](RESOURCES.md)
 ---
 
 > [!IMPORTANT]
