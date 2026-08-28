@@ -1,5 +1,10 @@
 # OSDI-LAB Schedule -- Winter 2026
 
+
+---
+>  [**🏠 HOME**](README.md) | [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCES**](RESOURCES.md)
+---
+
 The course consists of a series of pre-recorded videos, lab sessions, and milestone presentations.
 
 > [!IMPORTANT]
@@ -7,7 +12,7 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
 
 ## Course Hours
 
- * Tuessday: 13:00 -- 16:00
+ * Tuesday: 13:00 -- 16:00
  * Thursday: 13:00 -- 16:00
 
 > [!IMPORTANT]
