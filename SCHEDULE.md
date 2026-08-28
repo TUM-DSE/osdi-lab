@@ -29,7 +29,7 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
  * Typically at Noon on the day of the milestone presentation.
 
 **Milestone Presentations**
- * Present your solution to a course staff and answer questions about your solution and the general topic.
+ * Present your solution to the course staff and answer questions about your solution and the general topic.
  * Attendance is mandatory for everyone during their presentation slot.
 
 > [!WARNING]
@@ -39,7 +39,7 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
  * Pre-recorded videos will be released upfront.
 
 **Term Schedule**
-Schedule is also available as [Google Sheet](TBD).
+The schedule is also available as a [Google Sheet](TBD).
 ![Schedule](assets/schedule_ws26.png)
 
 
