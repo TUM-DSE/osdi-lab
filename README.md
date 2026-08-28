@@ -15,11 +15,11 @@
 > **Prerequisites:**:
 >  * Introduction to Computer Architecture (IN0004)
 >  * Basic Principles: Operating Systems and System Software (IN0009)
->  * Practical Lab: Systems Programming.
 
 > [!TIP]
 > **Additional Requirements:**
 >  * Proficiency in C programming
+>  * Practical Lab: Systems Programming.
 >  * Linux development tools and environment
 
 > [!WARNING]
