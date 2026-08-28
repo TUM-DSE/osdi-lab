@@ -1,14 +1,11 @@
 # Operating Systems Design and Implementation Lab (osdi-lab) -- Winter 2026
 
-> [!WARNING]
-> **July 3, 2026: This contains tenative information**
-
 **Organizer:** [Prof. Reto Achermann](https://dse.in.tum.de/achermann/) and the [Systems Research Group](https://dse.in.tum.de/team/) at [TU Munich](https://www.cit.tum.de/cit/startseite/).
 
 **Module**: N0012, IN2106 Bachelor/Master Practical Course, 6 SWS, 10 ECTS.
 
 ---
-> [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCES**](RESOURCES.md)
+>  [**🏠 HOME**](README.md) | [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCES**](RESOURCES.md)
 ---
 
 > [!IMPORTANT]
@@ -23,7 +20,7 @@
 >  * Linux development tools and environment
 
 > [!WARNING]
-> **Registration:** Be a student in TUMOnline. *Compulsory enrollment after the first weeks of the matching outcome; students who fail to de-register in this period will be registered for the exam.*
+> **Registration:** Be a student in TUMOnline. *Compulsory enrollment after the first two weeks of the matching outcome; students who fail to deregister in this period will be registered for the exam.*
 
 ## Credits
 
@@ -40,14 +37,10 @@ Moreover, the course pays particular attention to designing system software arch
 
 ## Objectives
 
-- Teach general operating systems principles, using a real research operating system to illustrate
-  them and by reading the research papers which propose some of the ideas that the particular OS builds on.
-- Give a broader perspective on operating systems which do not look like Linux, Unix, or Windows.
-- Provide exposure to the practical experience of working on OS code on real "metal", including
-  debugging, hardware access, etc. This kind of experience is hard to gain merely from reading books
-  or papers.
-- Introduce a sense of the complexity of a real OS, rather than simplified teaching OSes often used
-  in more basic courses.
+- Teach general operating systems principles, using a real research operating system to illustrate them, and by reading the research papers that propose some of the ideas that the particular OS builds on.
+- Give a broader perspective on operating systems that do not look like Linux, Unix, or Windows.
+- Provide exposure to the practical experience of working on OS code on real "metal", including debugging, hardware access, etc. This kind of experience is hard to gain from reading books or papers alone.
+- Introduce a sense of the complexity of a real OS, rather than simplified teaching OSes often used in more basic courses.
 
 ## Registration
 
@@ -58,6 +51,6 @@ Moreover, the course pays particular attention to designing system software arch
 > **Deadline**: Two weeks after the matching period, we will formally enroll you for the course. If you want to drop out, you must inform us before the registration deadline.
 
 > [!NOTE]
-> **Missed Registration** If for some reason you missed the matching period, you can send us an e-mail and we 
+> **Missed Registration** If, for some reason, you missed the matching period, you can send us an e-mail and we 
 > might be able to register you if there is space. 
 > 📧 Please include your full name and student number. Use your official TUM e-mail.
