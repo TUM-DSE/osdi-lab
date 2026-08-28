@@ -7,11 +7,11 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
 
 ## Course Hours
 
- * TBD (~~Tuessday: 13:00 -- 16:00~~)
- * TBD (~~Thursday: 13:00 -- 16:00~~)
+ * Tuessday: 13:00 -- 16:00
+ * Thursday: 13:00 -- 16:00
 
 > [!IMPORTANT]
-> Note: we generally assume that participants are free during the course hours.
+> Note: we generally assume that participants are free during the course hours and will be able to present their milestone solution.
 
 
 ## Schedule
@@ -24,7 +24,7 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
  * Typically at Noon on the day of the milestone presentation.
 
 **Milestone Presentations**
- * Present your solution to a course staff.
+ * Present your solution to a course staff and answer questions about your solution and the general topic.
  * Attendance is mandatory for everyone during their presentation slot.
 
 > [!WARNING]
