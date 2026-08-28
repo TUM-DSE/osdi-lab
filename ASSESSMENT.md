@@ -10,7 +10,7 @@ The final grade is the weighted average of individual and group milestones, fina
    - 10% Milestone Presentations (M0, M1)
    - 10% Milestone Integration Tests (M7)
    - 5% Report (M7)
- * **Group Grades (75%) **
+ * **Group Grades (75%)**
    - 25% Milestone Presentations (M2, M3, M4, M5, M6)
    - 30% Milestone Integration Tests (M1--M6)
    - 10% Report (M1--M6)
