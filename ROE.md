@@ -1,6 +1,10 @@
 # OSDI-LAB Rules of Engagement -- Winter 2026
 
-This is not an algorithms course, or a coding interview. There won't be any points awarded for correctly implementing a self-balancing tree, or a solution based on dynamic programming. The participants MAY make reasonable use of third-party libraries or generative AI. There are, however, a few rules and guidelines that need to be followed.
+---
+>  [**🏠 HOME**](README.md) | [**🗓️ SCHEDULE**](SCHEDULE.md) | [**💎 ASSESSMENT**](ASSESSMENT.md) | [**📜 RULES of ENGAGEMENT** ](ROE.md) | [**🌐 RESOURCES**](RESOURCES.md)
+---
+
+This is not an algorithms course or a coding interview. No points will be awarded for correctly implementing a self-balancing tree or a dynamic programming solution. The participants MAY make reasonable use of third-party libraries or generative AI. There are, however, a few rules and guidelines to follow.
 
 ## Code Ownership
 
@@ -33,12 +37,12 @@ Participants SHALL use only the provided course Git repositories for their proje
 > [!NOTE]
 > Participants MAY use generative AI tools.
 
-However, when using generative AI tools, then each participant:
+However, when using generative AI tools, each participant:
 
-1. MUST properly cite and acknowledge the use of such tools, including a clear description on HOW you used it (e.g., used prompts and other setup).
-2. MUST descirbe the strategy you adopted to ensure the correctness of generated code.
-3. MUST fully understand and take responsibility of the code you are submitting.
+1. MUST properly cite and acknowledge the use of such tools, including a clear description of HOW you used it (e.g., used prompts and other setup).
+2. MUST describe the strategy you adopted to ensure the correctness of the generated code.
+3. MUST fully understand and take responsibility for the code you are submitting.
 4. MUST be able to explain the generated code and how it works.
 
 > [!WARNING]
-> Generally, participants SHALL use those tools at your their risk. They are not a substitute for understanding the material, nor a guaranteed for obtaining good grade.
+> Generally, participants SHALL use those tools at their own risk. They are not a substitute for understanding the material, nor a guarantee for obtaining a good grade.
