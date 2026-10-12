@@ -1,4 +1,4 @@
-rrrr# OSDI-LAB Schedule -- Winter 2026
+# OSDI-LAB Schedule -- Winter 2026
 
 
 ---
@@ -41,7 +41,7 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
 **Term Schedule**
 
 | Week # | Date | Deliverable | Pre-Class Topic | Notes |
-|--------|------|-------------|-----------------|---r---|
+|--------|------|-------------|-----------------|-------|
 | 1 | Tuesday, October 13, 2026 | | 1a -- Introduction,<br>1b -- Barrelfish, Tools | First class is online.<br>-> or hybrid |
 | | Thursday, October 15, 2026 | | 2a -- Access Control | In person vs. some part online. |
 | 2 | Tuesday, October 20, 2026 | M0 | 2b -- Capabilities in Barrelfish | Automated milestone presentation. |
@@ -67,10 +67,10 @@ The course consists of a series of pre-recorded videos, lab sessions, and milest
 | | Tuesday, December 29, 2026 | | No class. | Christmas Vacation |
 | | Thursday, December 31, 2026 | | No class. | Christmas Vacation |
 | | Tuesday, January 5, 2027 | | No class. | Christmas Vacation |
-| | Thursday, January 7, 2027 | | -- | |
-| 12 | Tuesday, January 12, 2027 | M5 | | |
-| | Thursday, January 14, 2027 | | -- | |
-| 13 | Tuesday, January 19, 2027 | M6 | | |
+| | Thursday, January 7, 2027 | M5 | -- | |
+| 12 | Tuesday, January 12, 2027 | | | |
+| | Thursday, January 14, 2027 | M6 | -- | |
+| 13 | Tuesday, January 19, 2027 | | | |
 | | Thursday, January 21, 2027 | | | |
 | 14 | Tuesday, January 26, 2027 | | | |
 | | Thursday, January 28, 2027 | | | |
