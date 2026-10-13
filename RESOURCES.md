@@ -6,7 +6,11 @@
 
 ## Video Lectures
 
-TBD
+* [https://www.moodle.tum.de/mod/lti/view.php?id=3963977](https://www.moodle.tum.de/mod/lti/view.php?id=3963977)
+
+## Submission URL
+
+* [https://nextcloud.cit.tum.de/index.php/apps/forms/QPLwaB2PqLS3pFQc](https://nextcloud.cit.tum.de/index.php/apps/forms/QPLwaB2PqLS3pFQc)
 
 ## Course Repositories
 
